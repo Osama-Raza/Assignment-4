@@ -1,6 +1,0 @@
-side_1 : str = input('What is the length of side 1 ? ')
-side_1 : int = int(side_1)
-side_2 : str = float(input('What is the length of side 2 ? ')) 
-side_3 : str = input('What is the length of side 3 ? ') 
-side_3 : int = int(side_3)
-print(f'The perimeter of the triangle is: {side_1 + side_2 + side_3} ')
